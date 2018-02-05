@@ -1,0 +1,6 @@
+first session in phython
+1)create github account
+2)open terminal
+3)program 1=printing name
+4)program 2=math
+5)program 3=addition with variables

@@ -1,0 +1,10 @@
+#myfirstprogram
+print("vikram")
+print("cmrusoet") 
+print("200+20")
+print("20+30")
+print("50*20")
+print(20%2)
+print(30//2)
+print(30*4)
+print(2%60)
